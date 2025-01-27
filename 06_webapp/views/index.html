@@ -9,5 +9,23 @@
         <p>Este es un parrafo de HMTL</p>
         $for i in range(5):
             <p>Este es el renglón $i</p>
+
+        $for i in range(5):
+            $if i == 3:
+                <p>Este es el renglón TRES</p>
+            $elif i == 2:
+                $None
+            $else:
+                <p>Este es el renglón $i</p>
+
+        $code:
+            nombre = "Dejah"
+
+            def suma(num1, num2):
+                return num1 + num2
+
+        <p>Hola $nombre</p>
+
+        <p>$suma(10,5)</p>
     </body>
 </html>
