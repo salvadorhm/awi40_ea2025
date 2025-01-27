@@ -27,4 +27,5 @@ deactivate
 |3|02_webapp|Renderizar un archivo HTML utilizando templator|
 |4|03_webapp|Enviar variables desde python al html|
 |5|04_webapp|Hipervinculos entre dos páginas html|
+|6|05_webapp|Manejo de formularios html|
 
