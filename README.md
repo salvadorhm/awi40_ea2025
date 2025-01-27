@@ -28,4 +28,5 @@ deactivate
 |4|03_webapp|Enviar variables desde python al html|
 |5|04_webapp|Hipervinculos entre dos páginas html|
 |6|05_webapp|Manejo de formularios html|
+|7|06_webapp|Código python dentro del html|
 
