@@ -29,4 +29,7 @@ deactivate
 |5|04_webapp|Hipervinculos entre dos páginas html|
 |6|05_webapp|Manejo de formularios html|
 |7|06_webapp|Código python dentro del html|
+|8|07_webapp|Uso de plantilla base en html|
+|9|08_webapp|Archivos estaticos|
+
 
